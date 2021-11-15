@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Catarina\\Desktop\\Qualidade Software\\build\\classes\\java\\main;C:\\Users\\Catarina\\Desktop\\Qualidade Software\\build\\resources\\main;C:\\Users\\Catarina\\.gradle\\caches\\modules-2\\files-2.1\\joda-time\\joda-time\\2.10.13\\86f338c18cea2a89005556642e81707ff920dd38\\joda-time-2.10.13.jar'
+-d 'C:\\Users\\Catarina\\Desktop\\Qualidade Software\\build\\docs\\javadoc'
+-doctitle 'Qualidade Software 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Qualidade Software 1.0-SNAPSHOT API'
+'C:\\Users\\Catarina\\Desktop\\Qualidade Software\\src\\main\\java\\WorldTime.java'
